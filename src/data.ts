@@ -5,7 +5,7 @@
 
 import { Project, SkillCategory, UXGuidelineCheck } from "./types";
 
-import profileImg from "./assets/images/profile_3d_avatar_1780563131813.png";
+import profileImg from "./assets/images/profile_3d_avatar_1780563131813.jpg";
 import leykartImg from "./assets/images/leykart_ecommerce_1780563150539.png";
 import digisopImg from "./assets/images/digisop_app_1780563167795.png";
 import ezyidImg from "./assets/images/ezyid_security_1780563189212.png";
