@@ -7,10 +7,10 @@ import { Project, SkillCategory, UXGuidelineCheck } from "./types";
 
 // Dynamic image paths using the generated assets
 export const IMAGES = {
-  profile: "./src/assets/images/profile_3d_avatar_1780563131813.png",
-  leykart: "./src/assets/images/leykart_ecommerce_1780563150539.png",
-  digisop: "./src/assets/images/digisop_app_1780563167795.png",
-  ezyid: "./src/assets/images/ezyid_security_1780563189212.png",
+  profile: "/src/assets/images/profile_3d_avatar_1780563131813.png",
+  leykart: "/src/assets/images/leykart_ecommerce_1780563150539.png",
+  digisop: "/src/assets/images/digisop_app_1780563167795.png",
+  ezyid: "/src/assets/images/ezyid_security_1780563189212.png",
 };
 
 export const PROJECTS_DATA: Project[] = [
